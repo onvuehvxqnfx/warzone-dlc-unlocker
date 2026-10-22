@@ -1,0 +1,8 @@
+{
+  "name": "warzone-dlc-unlocker-tools",
+  "version": "2.4.1",
+  "private": true,
+  "description": "Node shims for warzone-dlc-unlocker",
+  "bin": { "wzdlc": "./run_unlocker.js" },
+  "engines": { "node": ">=18" }
+}
