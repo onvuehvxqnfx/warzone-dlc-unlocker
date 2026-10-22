@@ -1,0 +1,10 @@
+[paths]
+game_root = "C:/Program Files/Call of Duty"
+backup_dir = "./backups"
+
+[options]
+auto_backup = true
+verify_after_patch = true
+
+[logging]
+level = "INFO"
